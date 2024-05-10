@@ -1,0 +1,23 @@
+body{
+    background-color: paleturquoise;
+}
+
+h1{
+    color: red;
+    font-size: xx-large;
+}
+
+table,th,td{ 
+    border: 0.5px dashed black;
+    font-family: cursive;
+    font-size: x-large;
+    color: black;
+    
+}
+
+ul{
+    color: purple;
+    font-family: cursive;
+    font-size: x-large;
+
+}
